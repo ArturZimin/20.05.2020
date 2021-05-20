@@ -34,7 +34,7 @@ public class Main {
 
 
 
-        
+
         //task8
 
         int many= 100;
